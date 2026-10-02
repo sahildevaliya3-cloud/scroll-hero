@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@import "lenis/dist/lenis.css";
+
+:root {
+  --color-page-bg: #0f1215;
+  --color-hero-bg: #14181c;
+  --color-road-bg: #1b1f24;
+  --color-road-lane: rgba(255, 255, 255, 0.12);
+  --color-headline: #f2f4f5;
+  --color-stat-card-bg: #1a1e23;
+  --color-stat-card-border: rgba(255, 255, 255, 0.08);
+  --color-stat-value: #ffffff;
+  --color-stat-label: #8b929a;
+  --color-trail: #22c55e;
+  --color-trail-glow: rgba(34, 197, 94, 0.45);
+}
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+body {
+  background-color: var(--color-page-bg);
+  color: var(--color-headline);
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+
