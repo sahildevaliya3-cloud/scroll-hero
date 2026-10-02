@@ -7,7 +7,7 @@ An interactive, high-performance scroll-driven hero section featuring a top-down
 ---
 
 ## 🌐 Live Demo
-- **Local URL**: [http://localhost:3000](http://localhost:3000)
+- URL "https://scroll-hero-indol.vercel.app"
 
 ---
 
